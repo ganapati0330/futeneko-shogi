@@ -9,4 +9,4 @@
 
 公開URL: https://ganapati0330.github.io/futeneko-shogi/
 
-© 泉正道 / フテ猫実行委員会
+© フテ猫実行委員会
